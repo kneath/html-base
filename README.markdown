@@ -11,3 +11,9 @@ I like to split my Javascripts up into multiple directories to simplify developm
 *  `/modules/` - Useful for widget-specific functionality encapsulation. May depend on libraries and plugins.
 *  `/specs/` - Contains all Javascript Specs (you're testing your Javascript, right?)
 *  `/application.js` - This should hold all triggers for javascript execution (the things that activate a given module/plugin/library).
+
+## Credit
+
+Created by Kyle Neath.
+http://kyleneath.com
+http://warpspire.com
